@@ -1,0 +1,9 @@
+/* assets/css/style.css */
+body {
+  scroll-behavior: smooth;
+}
+
+.hero-img {
+  background-size: cover;
+  background-position: center;
+}
